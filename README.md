@@ -16,5 +16,6 @@ This EDA project looks at data from the 2015, 2016 and 2017 iterations of the Wo
 ### The target variable (at the level of countries):  <br />
 •Mean subjective happiness score
 
-### Univariate Analysus
+### Happiness Heat Map
+A heat map of the world where countries are colored by their happiness scores reveals a strong positive correlation between how developed a country is and how happy its average citizen is. Australia, New Zealand, North America and Western Europe are the happiest regions of the world, while Sub-Saharan Africa and Southern Asia are the least happy regions of the world.
 
