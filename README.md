@@ -13,7 +13,7 @@ This EDA project looks at data from the 2015, 2016 and 2017 iterations of the Wo
 •Generosity  of citizens <br />
 •Trust in government
 
-### The target variable (at the level of countries)  <br />
+### The Target Variable (at the level of countries)  <br />
 •Mean subjective happiness score
 
 ### Happiness Heat Map
