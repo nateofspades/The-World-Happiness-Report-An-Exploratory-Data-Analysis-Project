@@ -33,7 +33,7 @@ This part of the project looks further into the top three predictors of happines
 
 ### What I Learned in Hindsight
 I completed this project in 2018. Looking back on it now, with an extra year of experience in data science, I would do a number of things differently, such as: <br /> <br />
-•Write my code under the functional programming paradigm; a lot of duplication of code be avoided (for example when building and plotting various similar linear regression models - the current code blocks for these are long and messy). <br />
+•Write my code under the functional programming paradigm; a lot of duplication of code could be avoided (for example when building and plotting various similar linear regression models - the current code blocks for these are long and messy). <br />
 •More appropriately use whitespace in my code to make it more human-readable. <br /> 
 •Use more descriptive variable-naming conventions. <br /> 
 •Spend more time investigating the unintuitive evaluation system for the 6 characteristics and the target, and then replace it with an intuitive one (for example, a 0 to 10 scale by applying an appropriate linear transformation). The current system has all of the characteristics in this particular dataset ranging from 0 to 1.82, and claims that the target by definition ranges from 0 to 10. It's not clear from this information what the range of acceptable characteristic values is then; if it is, say, 0 to 2, then this would suggest a maximum happiness of at least 6x2=12 (contradiction). <br />
