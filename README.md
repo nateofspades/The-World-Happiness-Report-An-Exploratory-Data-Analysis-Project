@@ -1,4 +1,4 @@
-# The World Happiness Report - EDA
+# The World Happiness Report - An Exploratory Data Analysis Project
 
 The project can be seen in the .ipynb file.
 
